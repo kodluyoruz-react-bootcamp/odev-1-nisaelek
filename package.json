@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/kodluyoruz-react-bootcamp/odev-1-nisaelek/issues"
   },
-  "homepage": "https://github.com/kodluyoruz-react-bootcamp/odev-1-nisaelek#readme"
+  "homepage": "https://github.com/kodluyoruz-react-bootcamp/odev-1-nisaelek#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6",
+    "sucrase": "^3.16.0"
+  }
 }
