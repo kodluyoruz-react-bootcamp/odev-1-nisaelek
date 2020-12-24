@@ -1,4 +1,4 @@
-const axios= require("axios") ;
+"use strict";Object.defineProperty(exports, "__esModule", {value: true});const axios= require("axios") ;
 
 const ENDPOINT = "https://jsonplaceholder.typicode.com";
 async function getData(id) {
@@ -16,4 +16,4 @@ async function getData(id) {
 		console.log(e);
 	}
 }
- export default getData;
+ exports. default = getData;
