@@ -4,7 +4,10 @@
   "description": "Merhaba",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./src/lib/service.js",
+    "dev": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sucrase ./src -d ./dist --transforms imports"
   },
   "repository": {
     "type": "git",
