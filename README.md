@@ -1,2 +1,2 @@
-GKodluyoruz Bootcampi için ilk ödevim.
+Kodluyoruz Bootcampi için ilk ödevim.
 -Nisa ELEK
