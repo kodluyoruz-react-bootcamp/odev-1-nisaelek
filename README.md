@@ -1,1 +1,2 @@
-Merhaba Kodluyoruz Bootcampi için ilk ödevim.
+GKodluyoruz Bootcampi için ilk ödevim.
+-Nisa ELEK
